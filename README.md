@@ -1,4 +1,4 @@
-# The UK Economy Through Data Trends Relationships Crises
+# The UK Economy Through Data: Trends Relationships Crises
 A project looking at the UK economy using Python and SQL.
 
 I used Python to clean and prepare the data, then PostgreSQL/SQL to analyse it.
