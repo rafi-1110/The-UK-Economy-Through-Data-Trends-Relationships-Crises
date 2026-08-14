@@ -20,5 +20,5 @@ Python · Jupyter · PostgreSQL · SQL · Power BI [coming soon]
 
 ```text
 data/       → raw and cleaned data
+python/     → data cleaning and preparation
 sql/        → SQL analysis
-powerbi/    → Power BI dashboard [coming soon]
