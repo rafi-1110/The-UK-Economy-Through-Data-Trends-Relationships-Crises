@@ -18,7 +18,7 @@ The Power BI analysis presents the key findings from the SQL analysis
 through interactive visualisations.
 
 ### Dashboard Preview
-Page1: <img width="2157" height="1226" alt="image" src="https://github.com/user-attachments/assets/c85e98ef-c4fb-4861-bf92-0342fe040452" />
+<img width="2157" height="1226" alt="image" src="https://github.com/user-attachments/assets/c85e98ef-c4fb-4861-bf92-0342fe040452" />
 
 <img width="2163" height="1209" alt="image" src="https://github.com/user-attachments/assets/f12233e4-217c-4eb7-b4e3-cb5bb4b8f450" />
 
