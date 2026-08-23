@@ -12,6 +12,15 @@ The main indicators I explored at were:
 
 The analysis is presented in SQL, with a Power BI dashboard.
 
+## Power BI Analysis
+
+The Power BI analysis presents the key findings from the SQL analysis
+through interactive visualisations.
+
+### Dashboard Preview
+<img width="2157" height="1226" alt="image" src="https://github.com/user-attachments/assets/c85e98ef-c4fb-4861-bf92-0342fe040452" />
+
+
 ## Tools
 
 Python · Jupyter · PostgreSQL · SQL · Power BI
