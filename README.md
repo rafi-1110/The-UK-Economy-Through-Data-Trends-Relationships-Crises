@@ -10,15 +10,15 @@ The main indicators I explored at were:
 - The relationship between unemployment and inflation
 - 2008 Financial Crisis vs COVID-19
 
-The analysis is presented in SQL, with a Power BI dashboard also being developed.
+The analysis is presented in SQL, with a Power BI dashboard.
 
 ## Tools
 
-Python · Jupyter · PostgreSQL · SQL · Power BI [coming soon]
-
+Python · Jupyter · PostgreSQL · SQL · Power BI
 ## Project Structure
 
 ```text
 data/       → raw and cleaned data
 python/     → data cleaning and preparation
 sql/        → SQL analysis
+power bi/   → visualisation
